@@ -1,3 +1,5 @@
+#This file consists of the KMeans clustering functions
+
 import numpy as np
 
 
